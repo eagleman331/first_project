@@ -1,0 +1,7 @@
+{
+  "name": "cmoReserve01",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

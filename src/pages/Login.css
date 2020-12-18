@@ -1,0 +1,35 @@
+.ionToolbar {
+  --background: #f1f5f8;
+  padding: 0 10px;
+  background: #f1f5f8;
+}
+.ionheader_Item {
+  --background: #f1f5f8;
+
+  background: #f1f5f8;
+}
+.bordered {
+  --border-radius: 10px 5px 10px #d1d1d1, -5px -5px 10px #ffffff;
+}
+
+.ionWarren {
+  font-weight: 700px;
+  font-size: 14px;
+}
+.ion_p {
+  font-weight: 500px;
+  font-size: 14px;
+}
+
+.ionAvatar {
+  --border-radius: 40%;
+}
+
+.ionContent_Login {
+  --background: linear-gradient(
+    90deg,
+    rgba(43, 90, 148, 1) 0%,
+    rgba(45, 11, 229, 1) 35%,
+    rgba(45, 112, 229, 1) 100%
+  );
+}

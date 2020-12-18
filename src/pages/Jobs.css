@@ -1,0 +1,40 @@
+.jobsCard {
+  display: flex;
+  flex-direction: row;
+  padding-left: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  justify-content: center;
+}
+.jobsImage-label {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.jobsImg {
+  padding-right: 0px;
+}
+.jobsLabel {
+  padding-left: 0px;
+}
+
+.icon {
+  position: relative !important;
+  font-size: 25px;
+}
+.iconText {
+  background-color: light !important;
+  font-size: 10px;
+  color: whitesmoke;
+  text-align: center;
+  width: 18px;
+  height: 16px;
+  border-radius: 100%;
+  position: absolute !important;
+  top: 15px !important;
+  left: 15px !important;
+}
+.icon-container {
+  display: inline;
+  margin-left: 15px;
+  position: relative;
+}

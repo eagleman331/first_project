@@ -1,0 +1,38 @@
+.news_IonContent {
+  padding-top: 10px;
+}
+
+.tCard {
+  justify-content: center;
+}
+.trainingCard {
+  display: inline-block;
+  width: 130px;
+  height: 150px;
+  justify-content: center;
+}
+
+.trainingCard_Header {
+  padding-top: 5px;
+}
+
+.trainingCard_Content {
+}
+
+.trainingCard_Img {
+  width: 100%;
+}
+
+.youTube_Page {
+  background-color: #2980b9;
+}
+body {
+  background-color: #2980b9;
+}
+.youTube_Div {
+  border: 3px green dashed;
+  margin-top: 20px;
+}
+.ionCard_Title {
+  text-align: center;
+}

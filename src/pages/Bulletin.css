@@ -1,0 +1,7 @@
+.bulletinCardHeader {
+  display: flex !important;
+  flex-direction: row;
+}
+.bulletinCard {
+  width: 300px;
+}
